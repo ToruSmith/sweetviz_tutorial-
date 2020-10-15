@@ -46,6 +46,7 @@ report_train.show_html(filepath='Basic_train_report.html')
 ```
 
 檔案:  Basic_train_report.html
+![](Image/基本報表.PNG)
 
 ### 2. 加入目標變數的報表
 
@@ -68,7 +69,7 @@ report_train_with_target.show_html(filepath='Basic_train_report_with_target.html
 ```
 
 檔案:  Basic_train_report_with_target.html
-
+![](Image/加入目標變數的報表.PNG)
 
 ### 3. 比較train和test的報表
 
@@ -84,6 +85,7 @@ compare_report.show_html(filepath='Compare_train_test_report.html')
 ```
 
 檔案:  Compare_train_test_report.html
+![](Image/比較train和test的報表.PNG)
 
 ### 4. 比較Male和Female兩個子資料集的報表
 
@@ -102,6 +104,7 @@ compare_subsets_report.show_html(filepath='Compare_male_female_report.html'
 ```
 
 檔案: Compare_male_female_report.html
+![](Image/比較Male和Female兩個子資料集的報表.PNG)
 
 ## 還想要甚麼功能
 

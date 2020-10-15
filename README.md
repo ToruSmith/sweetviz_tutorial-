@@ -36,6 +36,8 @@ import sweetviz as sv
 
 可以參考Demo.ipynb
 
+##### 注意: 如果資料量很大，特徵又多的話，建議可以在以下四種情況，加入參數pairwise_analysis='off'，會節省很多時間!
+
 #### 1. 基本報表
 
 ```sh
